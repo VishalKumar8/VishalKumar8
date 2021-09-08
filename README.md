@@ -1,5 +1,10 @@
-<h1 align="center">Hi 👋, I'm Vishal Kumar</h1>
-<h3 align="center">👀 I’m interested in Computer Science</h3>
+- 👋 Hi, I’m @vishalkumar8
+- 👀 I’m interested in Computer Science 
+- 🌱 I’m currently learning Web-Development
+- 💞️ I’m looking to collaborate on .intership company..
+- 📫 How to reach me.
+- Blog - www.vishalcomputersoft.blogspot.com
+- website- https://infohelpful4u.wordpress.com/
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishalkumar8&label=Profile%20views&color=0e75b6&style=flat" alt="vishalkumar8" /> </p>
 
@@ -20,3 +25,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalkumar8&" alt="vishalkumar8" /></p>
 
 
+<!---
+vishalkumar09/vishalkumar09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
