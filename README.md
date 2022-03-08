@@ -49,23 +49,32 @@
 
 ## 📊 My Github Stats
 
+<p>
 
+<a href="https://github.com/NarpatAanjana/github-readme-stats"><img alt="Narpat's Github Stats" src="https://github-readme-stats.vercel.app/api?username=VishalKumar8&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/VishalKumar8)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VishalKumar8)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=VishalKumar8&show_icons=true)  
-
+ <a href="https://github.com/NarpatAanjana/github-readme-stats"><img alt="Narpat's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishalKumar8&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+   <br/>
+  
 
   <p align="center">
-   <a href="https://github.com/NarpatAanjana/github-readme-streak-stats">
-           <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Narpat's streak" src="https://activity-graph.herokuapp.com/graph?username=VishalKumar8&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+   <a href="https://github.com/VishalKumar8/github-readme-streak-stats">
+           <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Narpat's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=VishalKumar8&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
+</p>
+<br/>
+<br/>
+<a href="https://github.com/VishalKumar8/github-readme-activity-graph"><img alt="Narpat's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=VishalKumar8&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=VishalKumar8)  
+### Conect with me: 
+<p align="left">
+<a href="https://www.linkedin.com/in/vishal-kumar-bb9281219/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Narpat Aanjana" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/VishalKumar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="Narpat Aanjana" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/VishalKumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Narpat Aanjana" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/Vishal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="Narpat Aanjana" height="30" width="40" /></a>
+<a href="https://leetcode.com/Vishal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Narpat Aanjana" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/narpatanjana0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="tanmay777leon" height="30" width="40" /></a>
+ 
 
-
-
+</p>
