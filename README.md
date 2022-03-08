@@ -58,7 +58,12 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=VishalKumar8&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=VishalKumar8)  
+
+  <p align="center">
+   <a href="https://github.com/NarpatAanjana/github-readme-streak-stats">
+           <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Narpat's streak" src="https://activity-graph.herokuapp.com/graph?username=VishalKumar8&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=VishalKumar8)  
 
