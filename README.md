@@ -69,12 +69,11 @@
 
 ### Conect with me: 
 <p align="left">
-<a href="https://linkedin.com/in/narpat-aanjana-84377620b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Narpat Aanjana" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vishal-kumar-bb9281219/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Vishal Kumar" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/vishalkumar02976" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="Vishal Kumar" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/vishalkumar02976" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Narpat Aanjana" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/vishal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="Narpat Aanjana" height="30" width="40" /></a>
-<a href="https://leetcode.com/Vishal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Vishal Kumar" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/vishalkumar02976/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="tanmay777leon" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/vishalkumar02976?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Vishal Kumar" height="30" width="40" /></a>
+<a href="https://leetcode.com/vishalkumar02976/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Vishal Kumar" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/vishalkumar02976/practice/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="Vishal Kumar" height="30" width="40" /></a>
  
 
 </p>
